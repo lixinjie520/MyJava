@@ -13,7 +13,7 @@ public class CarArrayObject {
 //        Car[] cars = {car1, car2, car3};
 
 //      匿名物件Anonymous Object，沒有上述的car1, car2, car3
-        Car[] cars = {new Car("Mastang","Red"),
+        Car[] cars = {new Car("Mustang","Red"),
                       new Car("Corvette","Blue"),
                       new Car("Charger","Pink")};
 
